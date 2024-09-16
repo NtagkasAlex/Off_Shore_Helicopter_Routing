@@ -1,0 +1,8 @@
+/.vscode
+/1-glpk
+/Makefile
+/__pycache__
+/original
+/profile_results.txt
+/test
+/test.cpp
