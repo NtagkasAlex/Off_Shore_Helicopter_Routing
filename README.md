@@ -53,7 +53,7 @@ The algorithm has been tested for various problem sizes (number of platforms \( 
 ![Execution Time](images/times_rf.png)
 
 Performance metrics such as percentage diviation from column generation optimality are provided for each scenario.
-![Stats](images/image copy 2.png)
+![Stats](images/image_copy_2.png)
 
 ## Dependencies
 
