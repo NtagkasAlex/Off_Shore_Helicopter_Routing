@@ -50,8 +50,10 @@ The algorithm is further optimized by using a **lexicographic search** to genera
 ## Results
 
 The algorithm has been tested for various problem sizes (number of platforms \( N \) from 5 to 40). The results show that the computational complexity increases exponentially with \( N \), which aligns with theoretical predictions.
+![Execution Time](images/times_rf.png)
 
-Performance metrics such as execution time and optimality gap are provided for each scenario.
+Performance metrics such as percentage diviation from column generation optimality are provided for each scenario.
+![Execution Time](images/image_copy_2.png)
 
 ## Dependencies
 
